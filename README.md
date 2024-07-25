@@ -2,6 +2,7 @@ Vegetable Image Classification
 This project focuses on classifying 15 different categories of vegetables using Convolutional Neural Networks (CNN). The model is trained, validated, and tested on a dataset of vegetable images, leveraging various data augmentation techniques to improve performance.
 
 Table of Contents
+
 Dataset
 Model Architecture
 Data Augmentation
@@ -9,6 +10,8 @@ Training
 Evaluation
 Usage
 Results
+
+
 Dataset
 The dataset consists of images of 15 different vegetable categories. Each category contains images for training, validation, and testing.
 
